@@ -45,7 +45,7 @@ export default function Header() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="text-2xl font-serif font-bold text-navy-900 hover:text-gold-600 transition-colors">
-            Legal Portfolio
+            Martina Paliariková
           </Link>
 
           {/* Desktop Navigation */}
