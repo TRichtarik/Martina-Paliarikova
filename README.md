@@ -1,5 +1,6 @@
 # Legal Professional Portfolio Website
 
+
 A modern, elegant portfolio website for a legal professional specializing in international law and European integration. Built with Next.js, TypeScript, and TailwindCSS.
 
 ## 🌟 Features
