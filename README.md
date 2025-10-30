@@ -1,7 +1,6 @@
-# Legal Professional Portfolio Website
+# Martina Paliariková - Portfolio Website
 
-
-A modern, elegant portfolio website for a legal professional specializing in international law and European integration. Built with Next.js, TypeScript, and TailwindCSS.
+A modern, elegant portfolio website for Martina Paliariková, a law student and international relations expert at Masaryk University, Brno. Specializing in international law, European integration, and human rights. Built with Next.js, TypeScript, and TailwindCSS.
 
 ## 🌟 Features
 
@@ -31,8 +30,8 @@ A modern, elegant portfolio website for a legal professional specializing in int
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd untitled
+git clone git@github.com:TRichtarik/Martina-Paliarikova.git
+cd Martina-Paliarikova
 ```
 
 2. Install dependencies:
